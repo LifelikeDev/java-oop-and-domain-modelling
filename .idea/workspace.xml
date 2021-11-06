@@ -16,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="20Z0cxabX5d95K10Tdj2ItRLWE4" />
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />

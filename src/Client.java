@@ -17,4 +17,27 @@ public abstract class Client {
         this.serviceLevel = serviceLevel;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getId() {
+        return id;
+    }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public ServiceLevel getServiceLevel() {
+        return serviceLevel;
+    }
+
+    public void setServiceLevel(ServiceLevel serviceLevel) {
+        this.serviceLevel = serviceLevel;
+    }
 }
