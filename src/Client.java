@@ -40,4 +40,8 @@ public abstract class Client {
     public void setServiceLevel(ServiceLevel serviceLevel) {
         this.serviceLevel = serviceLevel;
     }
+
+    public String getClientName() {
+        return this.name;
+    }
 }
