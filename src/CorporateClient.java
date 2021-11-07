@@ -1,5 +1,5 @@
 public class CorporateClient extends Client {
-    AccountManager accountManager;
+    private AccountManager accountManager;
 
     public CorporateClient(String id, ServiceLevel serviceLevel, AccountManager accountManager) {
         super(id, serviceLevel);
