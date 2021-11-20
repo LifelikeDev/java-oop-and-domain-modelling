@@ -9,4 +9,14 @@ public class ClientRegister {
         this.corporateClients = corporateClients;
         this.privateClients = privateClients;
     }
+
+    public List<Client> getCorporateClients() {
+        return this.corporateClients;
+    }
+
+    public List<Client> getPrivateClients() {
+        return this.privateClients;
+    }
+
+    
 }
